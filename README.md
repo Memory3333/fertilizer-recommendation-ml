@@ -27,7 +27,7 @@ Efficient fertilizer use is critical for improving agricultural productivity and
 
 Random Forest slightly outperformed XGBoost.
 
-## 🔍 Model Explainability
+## Model Explainability
 SHAP (SHapley Additive exPlanations) was used to interpret model predictions and identify key drivers of fertilizer recommendations.
 
 ## Key Insights
